@@ -1,0 +1,21 @@
+.book-card{
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.hidden {
+    display: none;
+}
+
+#book-form{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    width: 20%;
+}
+
+.add-book{
+    margin: 30px 0px;
+}
